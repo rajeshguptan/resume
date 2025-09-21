@@ -20,7 +20,7 @@ open_graph:
 # Style
 date_format: "%Y-%m-%d"     # date format
 theme_color: "#1DA1F2"      # your favorite theme color
-contact_delimiter: "·"      # contact delimiter, '·', '/' or '|'
+contact_delimiter: "|"      # contact delimiter, '·', '/' or '|'
 section_icon: true          # section title icon, true or false
 section_title: uppercase    # section title style, 'uppercase', 'lowercase', 'capitalize' or 'none'
 section_align: start        # section title align, 'start', 'end' or 'center'
