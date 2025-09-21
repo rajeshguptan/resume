@@ -28,7 +28,7 @@ link_icon: true             # show link icon, 'true' or 'false'
 site_footer: true           # show site footer, 'true' or 'false'
 font_family: "Roboto, Arial, sans-serif"   # set Roboto as the primary font
 font_url: "https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" # Roboto font CDN
-
+font_size: 10px
 # Analytics
 #analytics:
 #  google:                   # google

@@ -14,7 +14,7 @@ An experienced software engineer with a complete understanding of the software d
 
 ## Professional Experience
 
-#### **Senior Backend Developer** | *Delta Dental Insurance, SFO-Remote* | *Feb 2023 - Present*
+#### **API Lead** | *Delta Dental Insurance, SFO-Remote* | *Feb 2023 - Present*
 - Re-architected and migrated SOAP-based web services from weblogic to REST services on Springboot 3.
 - Implemented service observability using Datadog and APIOps on Azure Stack using Github Enterprise Cloud.
 - **Key Achievement:** Successfully installed new service to production and received multiple step-up awards.
