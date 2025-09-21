@@ -1,14 +1,7 @@
+// assets/css/style.scss
+
 ---
 ---
 
-/* Import the Roboto font */
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-
-/* Import the theme's default styles */
-@import "{{ site.theme }}";
-
-/* Apply custom styles */
-body {
-  font-family: 'Roboto', sans-serif;
-  font-size: 10px; /* Use px for a fixed size */
-}
+@import "primer";
+@import "custom-styles";

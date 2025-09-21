@@ -4,7 +4,10 @@ url:
 baseurl:
 
 # Sass setting
-sass/style: compressed
+sass:
+  style: compressed  # nested, expanded, compact, compressed
+  load_paths:
+    - _sass 
 
 # Privacy
 open: true                  # show or hide your resume
