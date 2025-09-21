@@ -30,6 +30,9 @@ skill_level_icon: lightbulb # skill rate icon, 'heart', 'star', 'circle' or 'lig
 link_icon: true             # show link icon, 'true' or 'false'
 site_footer: true           # show site footer, 'true' or 'false'
 
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Analytics
 #analytics:
