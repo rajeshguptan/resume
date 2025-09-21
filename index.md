@@ -1,4 +1,3 @@
-# Rajesh Gupta
 **Principal Software Developer, Backend**
 
 **Email:** rajesh.guptan@gmail.com | **Phone:** (602) 515 1434 | **Location:** Folsom, CA 95630
