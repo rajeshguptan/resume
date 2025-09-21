@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-title: Online Resume
+title: Rajesh Gupta
 url:
 baseurl:
 
@@ -28,10 +28,10 @@ link_icon: true             # show link icon, 'true' or 'false'
 site_footer: true           # show site footer, 'true' or 'false'
 
 # Analytics
-analytics:
-  google:                   # google
-  cloudflare:               # cloudflare
-  umami:                    # umami (Replace it with your own)
-    script: https://u.tarrex.com/u.js
-    website_id: af636e2d-31ae-46f1-9071-82b1745143a9
-    domains: tarrex.github.io,tarrex.com
+#analytics:
+#  google:                   # google
+#  cloudflare:               # cloudflare
+#  umami:                    # umami (Replace it with your own)
+#    script: https://u.tarrex.com/u.js
+#    website_id: af636e2d-31ae-46f1-9071-82b1745143a9
+#    domains: tarrex.github.io,tarrex.com
