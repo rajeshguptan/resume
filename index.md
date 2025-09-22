@@ -63,12 +63,12 @@ I have over 20 years enterprise software development experience including both s
 
 ## Key Skills
 
-. **Programming Languages:** Javascript, Typescript, Java, SQL
-. **Databases:** Oracle DB, Postgres DB
-. **DevOps & CI/CD:** Git, Github, Github action, Jenkins, maven, npm, yarn, Docker, Kubernetes
-. **Backend Technologies:** NodeJS, Java EE Technologies & related frameworks including JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Springboot
-. **Cloud:** Azure Cloud, AWS Cloud
-. **Testing:** Cypress, Playwright, JUnit, Mockito, hailstorm
+* **Programming Languages:** Javascript, Typescript, Java, SQL
+* **Databases:** Oracle DB, Postgres DB
+* **DevOps & CI/CD:** Git, Github, Github action, Jenkins, maven, npm, yarn, Docker, Kubernetes
+* **Backend Technologies:** NodeJS, Java EE Technologies & related frameworks including JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Springboot
+* **Cloud:** Azure Cloud, AWS Cloud
+* **Testing:** Cypress, Playwright, JUnit, Mockito, hailstorm
 
 ---
 
