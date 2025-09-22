@@ -75,3 +75,8 @@ I have over 20 years enterprise software development experience including both s
 ## Education
 
 - **Bachelor of Technology in Material Science and Engineering** : *Indian Institute of Technology, Kharagpur, India*
+
+## Side Project
+
+- **www.citihub.org** : Urban Connection platform
+- https://github.com/rajeshguptan/hailstorm : Springboot based load testing tool
