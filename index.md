@@ -74,4 +74,4 @@ I have over 20 years enterprise software development experience including both s
 
 ## Education
 
-- **Bachelor of Technology in Material Science and Engineering** | *Indian Institute of Technology, Kharagpur, India*
+- **Bachelor of Technology in Material Science and Engineering** : *Indian Institute of Technology, Kharagpur, India*
