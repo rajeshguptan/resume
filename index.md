@@ -2,7 +2,7 @@
 
 ---
 
-## Professional Profile
+## Profile
 
 **Principal Backend Developer, Application Architect**
 
@@ -10,7 +10,7 @@ I have over 20 years enterprise software development experience including both s
 
 ---
 
-## Professional Experience
+## Experiences
 
 ### **API Lead** ➰  *Delta Dental Insurance of California, SFO-Remote* ➰ *Feb 2023 - Present*
 
@@ -60,7 +60,7 @@ I have over 20 years enterprise software development experience including both s
 
 ---
 
-## Key Skills
+## Skills
 
 * **Programming Languages:** Java, Javascript, Typescript, Bash, SQL
 * **Databases:** Oracle DB, Postgres DB
@@ -75,7 +75,7 @@ I have over 20 years enterprise software development experience including both s
 
 - **Bachelor of Technology in Material Science and Engineering** : *Indian Institute of Technology, Kharagpur, India*
 
-## Side Project
+## Side Projects
 
 - **www.citihub.org** : Urban Connection platform
 - https://github.com/rajeshguptan/hailstorm : Springboot based load testing tool
