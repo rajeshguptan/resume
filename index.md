@@ -1,13 +1,12 @@
-**Principal Backend Developer, Application Architect**
+#### Contact
 
-- **Email:** rajesh.guptan@gmail.com
-- **Phone:** (602) 515 1434
-- **Location:** Folsom, CA 95630
-- **LinkedIn:** linkedin.com/in/rajeshguptan
+**Email:** rajesh.guptan@gmail.com, **Phone:** (602) 515 1434, **Location:** Folsom, CA 95630, **LinkedIn:** linkedin.com/in/rajeshguptan
 
 ---
 
 ## Professional Profile
+
+**Principal Backend Developer, Application Architect**
 
 I have over 20 years enterprise software development experience including both startups and S&P500 Companies. My primary experience has been with Java and Backend but I have also worked with Javascript / Typescript in frontend and backend as well. I believe you need to keep learning in software development profession. Honesty, Teamwork and bringing business value are my main values. If you feel I would fit in your org culture do reach out.
 
@@ -65,10 +64,10 @@ I have over 20 years enterprise software development experience including both s
 
 ## Key Skills
 
-* **Programming Languages:** Javascript, Typescript, Java, SQL
+* **Programming Languages:** Java, Javascript, Typescript, Bash, SQL
 * **Databases:** Oracle DB, Postgres DB
-* **DevOps & CI/CD:** Git, Github, Github action, Jenkins, maven, npm, yarn, Docker, Kubernetes
-* **Backend Technologies:** NodeJS, Java EE Technologies & related frameworks including JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Springboot
+* **DevOps & CI/CD:** Git, Github, Github action, Jenkins, maven, npm, yarn, Docker, Kubernetes, Argocd
+* **Backend Technologies:** Java EE Technologies & related frameworks including JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Springboot, NodeJS
 * **Cloud:** Azure Cloud, AWS Cloud
 * **Testing:** Cypress, Playwright, JUnit, Mockito, hailstorm
 
