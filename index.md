@@ -17,14 +17,16 @@ I have over 20 years enterprise software development experience including both s
 
 #### **API Lead** | *Delta Dental Insurance of California, SFO-Remote* | *Feb 2023 - Present*
 
-**I am the technical lead owning and maintaing Claims MIcroservices portfolio. As part of my role I had to**
+**I am the technical lead taking care of Claims MIcroservices portfolio. As part of my role I had to**
 
-- Re-architected and migrated SOAP-based web services from weblogic to REST services on Springboot 3.
+- Re-architected and migrated SOAP-based web services from weblogic to REST services on Springboot 3 with oracle db.
 - Implemented service observability using Datadog and APIOps on Azure Stack using Github Enterprise Cloud.
-- Developed AKS based solution to process COB Claims for Skygen integration.
+- Developed spring batch based solution to process COB Claims for Skygen integration. This solution used terraform, argocd, helm and was deployed on AKS.
 - Drive the Disaster Recoverty planning and validation.
 - I was nominated twice for the TOPS award for going above and beyond the role to support the business.
 - I have received several step-up awards for helping team mates.
+- Presented multiple solutions in internal hackathon.
+- In this role I am leading a team of 5 developers.
 
 #### **Lead Performance Test** | *Airtable Inc. (11B$ startup), SFO-Remote* | *Dec 2021 - Feb 2023*
 
