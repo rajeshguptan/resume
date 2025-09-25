@@ -1,4 +1,4 @@
-*Email:* **rajesh.guptan@gmail.com**, *Phone:* **(602) 515 1434**, *Location:* **Folsom, CA 95630**, *LinkedIn:* **linkedin.com/in/rajeshguptan**
+*Email:* **rajesh.guptan@gmail.com** ➰ *Phone:* **(602) 515 1434** ➰ *Location:* **Folsom, CA 95630** ➰ *LinkedIn:* **linkedin.com/in/rajeshguptan**
 
 ---
 
@@ -12,7 +12,7 @@ I have over 20 years enterprise software development experience including both s
 
 ## Professional Experience
 
-#### **API Lead** | *Delta Dental Insurance of California, SFO-Remote* | *Feb 2023 - Present*
+### **API Lead** ➰  *Delta Dental Insurance of California, SFO-Remote* ➰ *Feb 2023 - Present*
 
 **I am the technical lead taking care of Claims MIcroservices portfolio. As part of my role I had to**
 
@@ -25,7 +25,7 @@ I have over 20 years enterprise software development experience including both s
 - Presented multiple solutions in internal hackathon.
 - In this role I am leading a team of 5 developers.
 
-#### **Lead Performance Test** | *Airtable Inc. (11B$ startup), SFO-Remote* | *Dec 2021 - Feb 2023*
+### **Lead Performance Test** ➰ *Airtable Inc. (11B$ startup), SFO-Remote* ➰ *Dec 2021 - Feb 2023*
 
 **I was the performance test lead**
 
@@ -34,7 +34,7 @@ I have over 20 years enterprise software development experience including both s
 - Set up performance regression testing on AWS with Spinnaker and created dashboards on Datadog for automated test analysis.
 - Defined the performance testing roadmap and established performance regression testing for increased product release confidence.
 
-#### **Consulting Member of Technical Staff** | *Oracle America Inc., Redwood Shores* | *Apr 2011 - Dec 2021*
+### **Consulting Member of Technical Staff** ➰ *Oracle America Inc., Redwood Shores* ➰ *Apr 2011 - Dec 2021*
 
 **I was the Oracle Weblogic performnace testing lead.**
 
@@ -44,13 +44,13 @@ I have over 20 years enterprise software development experience including both s
 - Developed the Oracle bots load generator tool and automation framework.
 - Supported the successful release of multiple versions of Oracle Weblogic, Fusion Apps, and BOTS.
 
-#### **Senior Software Engineer** | *Wisdom Infotech Ltd., SFO* | *Sep 2009 - Apr 2011*
+### **Senior Software Engineer** ➰ *Wisdom Infotech Ltd., SFO* ➰ *Sep 2009 - Apr 2011*
 
 - Designed and developed UI enhancement requests on the Wells Fargo site to support FIS integration.
 - Implemented the Enterprise scheduler for the Blackhawk network.
 - Fixed a critical memory leak issue that caused outages during the Christmas season.
 
-#### **Technical Architect** | *Infosys Technologies Ltd., Various locations* | *Oct 1999-Sep 2009*
+### **Technical Architect** ➰ *Infosys Technologies Ltd., Various locations* ➰ *Oct 1999-Sep 2009*
 
 **Over 10 years, worked with various clients on numerous projects in the banking and capital market domains in various capacity**
 
