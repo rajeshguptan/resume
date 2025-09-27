@@ -5,26 +5,26 @@
 
 **Application Architect / Principal Backend Developer**
 
-I have over 20 years enterprise software development experience including both startups and S&P500 Companies. My primary experience has been with Java and Backend but I have also worked with Javascript / Typescript in frontend and backend as well. I am a quick learner and believe you need to keep learning in software development profession. Working collaboratively to bring value to the business is what I strive for. In my career I had opportunity to learn from several talented people and that is what I carry with me.
+I have over 20 years enterprise software development experience including both startups and S&P500 Companies. My primary experience has been with Java and Backend but I have also worked with Javascript / Typescript in frontend and backend as well. I am adaptable to new technologies and frameworks and believe you need to keep learning in software development profession. Working collaboratively to bring value to the business is what I strive for. In my career, I have learned from many talented professionals, and I carry those lessons with me. I enjoy problem solving and keep abrest of current software development trends.
 
 ---
 ## Professional Experiences
 
 ### **API Lead** ➰  *Delta Dental Insurance of California, SFO-Remote* ➰ *Feb 2023 - Present*
-- I am the technical lead taking care of Claims MIcroservices portfolio. I am leading a team of 5 developers as part of this role.
+- I am the technical lead taking care of Claims Microservices portfolio. I am leading a team of 5 developers as part of this role.
 - Re-architected and migrated SOAP-based web services from weblogic to REST services on Springboot 3 with oracle db.
 - Implemented service observability using Datadog and APIOps on Azure Stack using Github Enterprise Cloud.
 - Developed spring batch based solution to process COB Claims for Skygen integration. This solution used terraform, argocd, helm and was deployed on AKS.
 - Drive the Disaster Recovery planning and validation.
-- I was nominated twice for the TOPS award for going above and beyond the role to support the business.
+- I received two nominations for the TOPS award for exceeding expectations in supporting the business.
 - I have received several step-up awards for helping team mates.
 - Presented multiple solutions in internal hackathon.
 
 ### **Performance Test Lead** ➰ *Airtable Inc. (11B$ startup), SFO-Remote* ➰ *Dec 2021 - Feb 2023*
 - Defined the performance testing roadmap and established performance regression testing for increased product release confidence
-- Implemented performance improvement enhancements in Airtable's backend.
+- My suggestion to use partitioned dataset led to 30% reduction in page load time.
 - Created a load testing framework from based on Piscina in Typescript.
-- Set up performance regression testing on AWS with Spinnaker and created dashboards on Datadog for automated test analysis.
+- Set up performance regression testing on AWS with Spinnaker and created dashboards on Datadog for automated test analysis. 
 
 ### &nbsp;
 
@@ -32,11 +32,11 @@ I have over 20 years enterprise software development experience including both s
 - Developed Java EE applications that used various new features and standards being built into the Weblogic application server.
 - Improved the scalability and performance of Oracle Fusion applications and tested them using OATS & Selenium.
 - Created a framework for Provisioning weblogic cluster and load testing and result analysis using JFR
-- Developed the Oracle bots load generator tool and automation framework.
+- Engineered the Oracle bots load generator tool and automation framework.
 - Supported the successful release of multiple versions of Oracle Weblogic, Fusion Apps, and BOTS.
 
 ### **Senior Software Engineer** ➰ *Wisdom Infotech Ltd., SFO* ➰ *Sep 2009 - Apr 2011*
-- Designed and developed UI enhancement requests on the Wells Fargo site to support FIS integration.
+- Designed and implemented UI enhancement requests on the Wells Fargo site to support FIS integration.
 - Implemented the Enterprise scheduler for the Blackhawk network.
 - Fixed a critical memory leak issue that caused outages during the Christmas season.
 
@@ -52,9 +52,10 @@ I have over 20 years enterprise software development experience including both s
 * **Programming Languages:** Java, Javascript, Typescript, Bash, SQL
 * **Databases:** Oracle DB, Postgres DB
 * **DevOps & CI/CD:** Git, Github, Github action, Jenkins, maven, npm, yarn, Docker, Kubernetes, Argocd
-* **Backend Technologies:** Java EE Technologies & related frameworks including JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Springboot, NodeJS
+* **Backend Technologies:** Java EE Technologies & related frameworks including JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Springboot, NodeJS, Microservices architecture.
 * **Cloud:** Azure Cloud, AWS Cloud
 * **Testing:** Cypress, Playwright, JUnit, Mockito, hailstorm
+* **Development Methodology** SAFe agile
 
 ---
 ## Education
