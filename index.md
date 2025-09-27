@@ -20,7 +20,7 @@ I have over 20 years enterprise software development experience including both s
 - I have received several step-up awards for helping team mates.
 - Presented multiple solutions in internal hackathon.
 
-### **Lead Performance Test** ➰ *Airtable Inc. (11B$ startup), SFO-Remote* ➰ *Dec 2021 - Feb 2023*
+### **Performance Test Lead** ➰ *Airtable Inc. (11B$ startup), SFO-Remote* ➰ *Dec 2021 - Feb 2023*
 - Defined the performance testing roadmap and established performance regression testing for increased product release confidence
 - Implemented performance improvement enhancements in Airtable's backend.
 - Created a load testing framework from based on Piscina in Typescript.
