@@ -26,8 +26,7 @@ I have over 20 years enterprise software development experience including both s
 - Created a load testing framework from based on Piscina in Typescript.
 - Set up performance regression testing on AWS with Spinnaker and created dashboards on Datadog for automated test analysis.
 
-<pre>
-</pre>
+### &nbsp;
 
 ### **Consulting Member of Technical Staff** ➰ *Oracle America Inc., Redwood Shores* ➰ *Apr 2011 - Dec 2021*
 - Developed Java EE applications that used various new features and standards being built into the Weblogic application server.
