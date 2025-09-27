@@ -4,6 +4,7 @@
 ## Profile
 
 **Principal Backend Developer, Application Architect**
+
 I have over 20 years enterprise software development experience including both startups and S&P500 Companies. My primary experience has been with Java and Backend but I have also worked with Javascript / Typescript in frontend and backend as well. I am a quick learner and believe you need to keep learning in software development profession. Working collaboratively to bring value to the business is what I strive for. In my carreer I had oppurtunity to learn from several talented people and that is what I carry with me.
 
 ---
