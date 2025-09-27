@@ -5,7 +5,7 @@
 
 **Application Architect / Principal Backend Developer**
 
-I have over 20 years enterprise software development experience including both startups and S&P500 Companies. My primary experience has been with Java and Backend but I have also worked with Javascript / Typescript in frontend and backend as well. I am adaptable to new technologies and frameworks and believe you need to keep learning in software development profession. Working collaboratively to bring value to the business is what I strive for. In my career, I have learned from many talented professionals, and I carry those lessons with me. I enjoy problem solving and keep abrest of current software development trends.
+I have over 20 years enterprise software development experience including both startups and S&P500 Companies. My primary experience has been with Java and Backend but I have also worked with Javascript / Typescript in frontend and backend as well. I am adaptable to new technologies and frameworks and believe you need to keep learning in software development profession. Working collaboratively to bring value to the business is what I strive for. In my career, I have learned from many talented professionals and carry those lessons forward. I enjoy problem solving and keep abreast of current software development trends.
 
 ---
 ## Professional Experiences
@@ -14,8 +14,8 @@ I have over 20 years enterprise software development experience including both s
 - I am the technical lead taking care of Claims Microservices portfolio. I am leading a team of 5 developers as part of this role.
 - Re-architected and migrated SOAP-based web services from weblogic to REST services on Springboot 3 with oracle db.
 - Implemented service observability using Datadog and APIOps on Azure Stack using Github Enterprise Cloud.
-- Developed spring batch based solution to process COB Claims for Skygen integration. This solution used terraform, argocd, helm and was deployed on AKS.
-- Drive the Disaster Recovery planning and validation.
+- Developed spring batch based solution to process COB Claims for Skygen integration. This approach used terraform, argocd, helm and was deployed on AKS.
+- Led the planning and validation of Disaster Recovery processes for claims microservices.
 - I received two nominations for the TOPS award for exceeding expectations in supporting the business.
 - I have received several step-up awards for helping team mates.
 - Presented multiple solutions in internal hackathon.
