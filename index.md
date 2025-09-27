@@ -16,9 +16,8 @@ I have over 20 years enterprise software development experience including both s
 - Implemented service observability using Datadog and APIOps on Azure Stack using Github Enterprise Cloud.
 - Developed spring batch based solution to process COB Claims for Skygen integration. This approach used terraform, argocd, helm and was deployed on AKS.
 - Led the planning and validation of Disaster Recovery processes for claims microservices.
-- I received two nominations for the TOPS award for exceeding expectations in supporting the business.
-- I have received several step-up awards for helping team mates.
-- Presented multiple solutions in internal hackathon.
+- I received two nominations for the TOPS award for exceeding expectations in supporting the business. Also received several step-up awards for helping team mates.
+- Presented multiple solutions in internal hackathon. Including implementing a VannaAI based solution to assist the team with database querying.
 
 ### **Performance Test Lead** ➰ *Airtable Inc. (11B$ startup), SFO-Remote* ➰ *Dec 2021 - Feb 2023*
 - Defined the performance testing roadmap and established performance regression testing for increased product release confidence
