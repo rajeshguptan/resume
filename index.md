@@ -1,4 +1,4 @@
-*Email:* **rajesh.guptan@gmail.com**  |  *Phone:* **(602) 515 1434**  |  *Location:* **Folsom, CA 95630**  |  *LinkedIn:* **linkedin.com/in/rajeshguptan**
+*Email:* **rajesh.guptan@gmail.com**  ➰  *Phone:* **602-515-1434**  ➰  *Location:* **Folsom, CA 95630**  ➰  *LinkedIn:* **linkedin.com/in/rajeshguptan**
 
 ---
 ## Profile
