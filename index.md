@@ -62,3 +62,12 @@ I have over 20 years enterprise software development experience including both s
 
 - **Bachelor of Technology in Material Science and Engineering** : *Indian Institute of Technology, Kharagpur, India*
 
+---
+## Certifications
+
+- **Sun** - Certified Enterprise Architect
+- **Skillsoft** : Github, Github Actions, Kubernetes Architecture
+- **Microsoft** : HTML, CSS and Javascript
+- **Jovian** : Deep Learning with Python
+- **Infosys** : Java, Software Architecture
+- **Deeplearning.ai** : AgenticAI with CrewAI 
