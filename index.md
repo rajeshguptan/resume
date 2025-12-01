@@ -35,7 +35,7 @@ I have over 20 years enterprise software development experience including both s
 
 ### &nbsp;
 ### &nbsp;
-### **Senior Software Engineer**  |  *Wisdom Infotech Ltd., SFO* ** | ** *Sep 2009 - Apr 2011*
+### **Senior Software Engineer**  |  *Wisdom Infotech Ltd., SFO*  |  *Sep 2009 - Apr 2011*
 - Designed and implemented UI enhancement requests on the Wells Fargo site to support FIS integration.
 - Implemented the Enterprise scheduler for the Blackhawk network.
 - Fixed a critical memory leak issue that caused outages during the Christmas season.
@@ -44,7 +44,7 @@ I have over 20 years enterprise software development experience including both s
 - ver 10 years, worked with various clients on numerous projects in the banking and capital market domains in various capacity
 - Designed and architected solutions for clients.
 - Mentored and guided junior developers.
-- Was involved in the end-to-end lifecycle for various projects, including requirements gathering, database modeling, architecture, build, rollout, and support.
+- I was involved in the end-to-end lifecycle for various projects, including requirements gathering, database modeling, architecture, build, rollout, and support.
 
 ---
 ## Skills
