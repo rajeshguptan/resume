@@ -25,9 +25,6 @@ I have over 20 years enterprise software development experience including both s
 - Created a load testing framework from based on piscina library in typescript.
 - Set up performance regression testing on AWS with Spinnaker and created dashboards on Datadog for automated test analysis. 
 
-### &nbsp;
-### &nbsp;
-
 ### **Consulting Member of Technical Staff**  |  *Oracle America Inc., Redwood Shores*  |  *Apr 2011 - Dec 2021*
 - Developed Java EE applications that used various new features and standards being built into the Weblogic application server.
 - Improved the scalability and performance of Oracle Fusion applications and tested them using OATS & Selenium.
@@ -35,6 +32,9 @@ I have over 20 years enterprise software development experience including both s
 - Engineered the Oracle bots load generator tool and automation framework.
 - Supported the successful release of multiple versions of Oracle Weblogic, Fusion Apps, and BOTS.
 
+
+### &nbsp;
+### &nbsp;
 ### **Senior Software Engineer**  |  *Wisdom Infotech Ltd., SFO* ** | ** *Sep 2009 - Apr 2011*
 - Designed and implemented UI enhancement requests on the Wells Fargo site to support FIS integration.
 - Implemented the Enterprise scheduler for the Blackhawk network.
