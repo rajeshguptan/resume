@@ -13,7 +13,6 @@ I have over 20 years enterprise software development experience including both s
 ### **API Lead**  |   *Delta Dental Insurance of California, SFO-Remote*  |  *Feb 2023 - Present*
 - I am the technical lead taking care of Claims Microservices portfolio. I am leading a team of 5 developers as part of this role.
 - Re-architected and migrated SOAP-based web services from weblogic to REST services on Springboot 3 with oracle db.
-- Exposed Claims Microservice as MCP Server using spring-ai so that it can be incorporated in Azure Agentic AI Applications. 
 - Implemented service observability using Datadog and APIOps on Azure Stack using Github Enterprise Cloud.
 - Developed spring batch based solution to process dual coverage claims for Skygen integration. This approach used terraform, helm and was deployed on AKS.
 - Led the planning and validation of Disaster Recovery processes for claims microservices.
