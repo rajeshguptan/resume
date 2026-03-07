@@ -33,6 +33,7 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 - Engineered the Oracle BOTS load generator tool and automation framework
 - Contributed to successful releases of multiple versions of Oracle WebLogic, Fusion Apps, and BOTS
 ### &nbsp;
+
 ### **Senior Software Engineer**  |  *Wisdom Infotech Ltd., SFO*  |  *Sep 2009 - Apr 2011*
 - Designed and implemented UI enhancements for Wells Fargo site to support FIS integration
 - Implemented the Enterprise Scheduler for the Blackhawk network
