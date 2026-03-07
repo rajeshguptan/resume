@@ -5,13 +5,14 @@
 
 **Application Architect / Principal Backend Developer**
 
-I have over 20 years enterprise software development experience including both startups and S&P500 Companies. My current role is Lead/Architect but I am still very much hands on. As a developer my primary experience has been with Java and Backend but I have also worked with Javascript / Typescript in frontend and backend as well. I am adaptable to new technologies and frameworks and believe you need to keep learning in software development profession. Working collaboratively to bring value to the business is what I strive for. In my career, I have learned from many talented professionals and carry those lessons forward. I enjoy problem solving and keep abreast of current software development trends.
+High-impact Technical Lead with over 20 years of experience building scalable enterprise solutions for startups and S&P 500 companies. Expert in architecting high-performance Java and Node.js backend systems while maintaining a hands-on approach to modern frontend frameworks. Proven track record in cloud migration, performance engineering, AI assisted development and integrating Agentic AI workflows to drive business value.
 
 ---
 ## Professional Experiences
 
 ### **API Lead**  |   *Delta Dental Insurance of California, SFO-Remote*  |  *Feb 2023 - Present*
 - I am the technical lead taking care of Claims Microservices portfolio. I am leading a team of 5 developers as part of this role.
+- Architected application to transform internal claim representation to EDI using agentic AI for Claim submission to Skygen. 
 - Re-architected and migrated SOAP-based web services from weblogic to REST services on Springboot 3 with oracle db.
 - Implemented service observability using Datadog and APIOps on Azure Stack using Github Enterprise Cloud.
 - Developed spring batch based solution to process dual coverage claims for Skygen integration. This approach used terraform, helm and was deployed on AKS.
@@ -34,7 +35,6 @@ I have over 20 years enterprise software development experience including both s
 
 
 ### &nbsp;
-### &nbsp;
 ### **Senior Software Engineer**  |  *Wisdom Infotech Ltd., SFO*  |  *Sep 2009 - Apr 2011*
 - Designed and implemented UI enhancement requests on the Wells Fargo site to support FIS integration.
 - Implemented the Enterprise scheduler for the Blackhawk network.
@@ -50,10 +50,11 @@ I have over 20 years enterprise software development experience including both s
 ## Skills
 
 * **Programming Languages:** Java, Javascript, Typescript, Bash, SQL
+* **AI:** AI assisted development using copilot, Kilo AI. Agentic AI development using Kilo AI, Azure AI Services. 
 * **Databases:** Oracle DB, Postgres DB
-* **DevOps & CI/CD:** Git, Github, Github action, Jenkins, maven, npm, yarn, Docker, Kubernetes, Argocd
+* **DevOps & CI/CD:** Git, Github, Github action, Jenkins, maven, npm, yarn, Argocd
 * **Backend Technologies:** Java EE Technologies & related frameworks including JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Springboot, NodeJS, Microservices architecture.
-* **Cloud:** Azure Cloud, AWS Cloud
+* **Cloud:** Docker, Kubernetes, Azure Cloud, AWS Cloud
 * **Testing:** Cypress, Playwright, JUnit, Mockito, hailstorm
 * **Development Methodology** SAFe agile, Scrum
 
