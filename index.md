@@ -11,9 +11,9 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 ## Professional Experience
 
 ### **Principal Engineer**  |  *Blueshield of California, El Dorado Hills*  |  *June 2026 - Present*
-- Technical lead for Stellarus interop server. Architected and implemented the first version.
+- As technical lead, Architected and implemented the first version of Stellarus interop server.
 - Technical lead for the UM Delegation module of Prior-Auth service. Working with business come up with the archicture and design of the initial version to satisfy the 2027 CMS Mandate.
-- Techstack Used : Azure AKS, NestJS, nx monorepo, github actions, argocd, kargo, grafana 
+- Techstack Used : Azure AKS, NestJS, nx monorepo, github actions, argocd, kargo
 
 ### **API Lead**  |  *Delta Dental Insurance of California, SFO-Remote*  |  *Feb 2023 - June 2026*
 - Technical lead for Claims Microservices portfolio, leading a team of 5 developers
@@ -56,7 +56,7 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 * **AI & Machine Learning:** AI-assisted development (Copilot, Kilo AI), Agentic AI development (Kilo AI, Azure AI Services), Deep Learning
 * **Databases:** Oracle DB, PostgreSQL
 * **DevOps & CI/CD:** Git, GitHub, GitHub Actions, Jenkins, Maven, npm, Yarn, ArgoCD
-* **Backend Technologies:** Java EE, JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Spring Boot, Node.js, Microservices
+* **Backend Technologies:** Java EE, JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Spring Boot, Node.js, NestJS
 * **Cloud & Containerization:** Docker, Kubernetes, Azure Cloud, AWS Cloud
 * **Testing:** Cypress, Playwright, JUnit, Mockito, Hailstorm
 * **Development Methodology:** SAFe Agile, Scrum
@@ -74,4 +74,3 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 - **Jovian:** Deep Learning with Python
 - **Infosys:** Java, Software Architecture
 - **DeepLearning.ai:** Agentic AI with CrewAI
-- **Sun Microsystems:** Certified Enterprise Architect
