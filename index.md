@@ -65,7 +65,6 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 ## Education
 
 - **Bachelor of Technology in Material Science and Engineering** : *Indian Institute of Technology, Kharagpur, India*
-
 ---
 ## Certifications
 
