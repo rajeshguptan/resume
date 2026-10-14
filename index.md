@@ -10,7 +10,12 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 ---
 ## Professional Experience
 
-### **API Lead**  |  *Delta Dental Insurance of California, SFO-Remote*  |  *Feb 2023 - Present*
+### **Principal Engineer**  |  *Blueshield of California, El Dorado Hills*  |  *June 2026 - Present*
+- Technical lead for Stellarus interop server. Architected and implemented the first version.
+- Technical lead for the UM Delegation module of Prior-Auth service. Working with business come up with the archicture and design of the initial version to satisfy the 2027 CMS Mandate.
+- Techstack Used : Azure AKS, NestJS, nx monorepo, github actions, argocd, kargo, grafana 
+
+### **API Lead**  |  *Delta Dental Insurance of California, SFO-Remote*  |  *Feb 2023 - June 2026*
 - Technical lead for Claims Microservices portfolio, leading a team of 5 developers
 - Architected an AI-driven application to transform internal claim representations to EDI format using Agentic AI for Claim Submission to Skygen
 - Re-architected and migrated SOAP-based web services from WebLogic to REST services on Spring Boot 3 with Oracle DB
