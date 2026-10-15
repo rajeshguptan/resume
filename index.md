@@ -53,12 +53,12 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 ## Skills
 
 * **Programming Languages:** Java, JavaScript, TypeScript, Bash, SQL
-* **AI & Machine Learning:** AI-assisted development (Copilot, Kilo AI), Agentic AI development (Kilo AI, Azure AI Services), Deep Learning
+* **AI & Machine Learning:** AI-assisted development (Codex, Copilot, Kilo AI), Agentic AI development (Kilo AI, Azure AI Services)
 * **Databases:** Oracle DB, PostgreSQL
-* **DevOps & CI/CD:** Git, GitHub, GitHub Actions, Jenkins, Maven, npm, Yarn, ArgoCD
+* **DevOps & CI/CD:** Git, GitHub, GitHub Actions, Jenkins, Maven, pnpm, ArgoCD, Kargo, Backstage,
 * **Backend Technologies:** Java EE, JSF, JAX-WS, JAX-RS, WebSockets, XML, AJAX, JSON, Messaging, ORM, Spring Boot, Node.js, NestJS
-* **Cloud & Containerization:** Docker, Kubernetes, Azure Cloud, AWS Cloud
-* **Testing:** Cypress, Playwright, JUnit, Mockito, Hailstorm
+* **Cloud & Containerization:** Docker, Kubernetes, Azure Cloud, AWS Cloud, IaC with terraform
+* **Testing:** Cypress, Playwright, JUnit, Mockito, Jest, Hailstorm
 * **Development Methodology:** SAFe Agile, Scrum
 
 ---
@@ -74,3 +74,15 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 - **Jovian:** Deep Learning with Python
 - **Infosys:** Java, Software Architecture
 - **DeepLearning.ai:** Agentic AI with CrewAI
+
+## Side Projects
+
+- https://github.com/rajeshgupta-stellarus/gorules-jdm-editor-vscode-plugin
+GoRules JDM Editor is a Visual Studio Code extension for editing GoRules JDM decision model files. It registers a custom editor for .jdm and .json files so decision models can be opened and edited visually inside VS Code instead of only as raw JSON.
+Use this plugin when you want to work with GoRules decision graphs, decision tables, expressions, and related JDM content directly from your local workspace.
+
+- https://github.com/rajeshgupta-stellarus/js-rule
+Aurora Rule Engine is a Turborepo workspace for authoring, testing, and promoting JavaScript business rules. It includes a Next.js user interface, a NestJS management API, an isolated rule-execution service, PostgreSQL-backed rule datasets, and Keycloak authentication.
+
+- https://github.com/rajeshguptan/hailstorm-app
+Hailstorm: API Development Desktop App is a local-first Electron application for API development, testing, automation, and load testing. Built with Vue 3, Pinia, and Tailwind CSS.
