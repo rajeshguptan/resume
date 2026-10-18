@@ -86,3 +86,6 @@ Aurora Rule Engine is a Turborepo workspace for authoring, testing, and promotin
 
 - https://github.com/rajeshguptan/hailstorm-app
 Hailstorm: API Development Desktop App is a local-first Electron application for API development, testing, automation, and load testing. Built with Vue 3, Pinia, and Tailwind CSS.
+
+- https://www.citihub.org
+A full-stack miniapps portal to help my local community with small problems which the big tech would not touch. And a production Kubernetes platform for it. Its a Vue 3 SPA and NestJS REST API with Better Auth (email + Google OAuth) and PostgreSQL/Prisma, packaged as a pnpm + Turborepo monorepo with shared packages and Playwright E2E tests. Provisioned a k3s cluster with Ansible, then adopted GitOps with Argo CD App-of-Apps, Kustomize overlays, Traefik routing, Cloudflare DNS, immutable image tags, nightly database backups, and GitHub Actions CI with lint/schema/secret/IaC scanning. Managed secrets safely with Bitnami Sealed Secrets and kubeseal.
