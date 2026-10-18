@@ -12,7 +12,7 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 
 ### **Principal Engineer**  |  *Blueshield of California, El Dorado Hills*  |  *June 2026 - Present*
 - As technical lead, Architected and implemented the first version of Stellarus interop server.
-- Technical lead for the UM Delegation module of Prior-Auth service. Working with business come up with the archicture and design of the initial version to satisfy the 2027 CMS Mandate.
+- Technical lead for the UM Delegation module of Prior-Auth service. Working with business come up with the archicture and design of the initial version to satisfy the 2027 CMS Mandate as per HL7 Da-Vinci implementation guidelines. 
 - Techstack Used : Azure AKS, NestJS, nx monorepo, github actions, argocd, kargo
 
 ### **API Lead**  |  *Delta Dental Insurance of California, SFO-Remote*  |  *Feb 2023 - June 2026*
