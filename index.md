@@ -11,8 +11,8 @@ Results-driven Technical Lead with over 20 years of experience designing and del
 ## Professional Experience
 
 ### **Principal Engineer**  |  *Blueshield of California, El Dorado Hills*  |  *June 2026 - Present*
-- As technical lead, Architected and implemented the first version of Stellarus interop server.
-- Technical lead for the UM Delegation module of Prior-Auth service. Working with business come up with the archicture and design of the initial version to satisfy the 2027 CMS Mandate as per HL7 Da-Vinci implementation guidelines. 
+- As technical lead, Architected and led the implementation of the first release of the Stellarus Interoperability Server.
+- As Technical lead for the UM Delegation module, Partnered with business stakeholders to define the architecture and design of the UM Delegation module, delivering its initial version to meet the 2027 CMS mandate in alignment with HL7 Da Vinci implementation guidelines.. 
 - Techstack Used : Azure AKS, NestJS, nx monorepo, github actions, argocd, kargo
 
 ### **API Lead**  |  *Delta Dental Insurance of California, SFO-Remote*  |  *Feb 2023 - June 2026*
@@ -85,7 +85,7 @@ Use this plugin when you want to work with GoRules decision graphs, decision tab
 Aurora Rule Engine is a Turborepo workspace for authoring, testing, and promoting JavaScript business rules. It includes a Next.js user interface, a NestJS management API, an isolated rule-execution service, PostgreSQL-backed rule datasets, and Keycloak authentication.
 
 - https://github.com/rajeshguptan/hailstorm-app
-Hailstorm: API Development Desktop App is a local-first Electron application for API development, testing, automation, and load testing. Built with Vue 3, Pinia, and Tailwind CSS.
+Hailstorm: API Testing Desktop App is a local-first Electron application for API testing, automation, and load testing. Built with Vue 3, Pinia, and Tailwind CSS.
 
 - https://www.citihub.org
 A full-stack miniapps portal to help my local community with small problems which the big tech would not touch. And a production Kubernetes platform for it. Its a Vue 3 SPA and NestJS REST API with Better Auth (email + Google OAuth) and PostgreSQL/Prisma, packaged as a pnpm + Turborepo monorepo with shared packages and Playwright E2E tests. Provisioned a k3s cluster with Ansible, then adopted GitOps with Argo CD App-of-Apps, Kustomize overlays, Traefik routing, Cloudflare DNS, immutable image tags, nightly database backups, and GitHub Actions CI with lint/schema/secret/IaC scanning. Managed secrets safely with Bitnami Sealed Secrets and kubeseal.
